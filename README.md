@@ -1,3 +1,3 @@
 # ffxi-lua
 
-When u turn your backs on the ppl the pll will turn they back on you
+When you sit on your high horse eventually you will fall.
