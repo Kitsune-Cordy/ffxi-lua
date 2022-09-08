@@ -1,3 +1,3 @@
 # ffxi-lua
 
-When you sit on your high horse eventually you will fall.
+If you think I should set up a paypal or kofi for lua updates let me know
